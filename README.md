@@ -37,5 +37,5 @@
 
 ### **Step 1: Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/articles-app.git
-cd articles-app
+git clone https://github.com/yourusername/articles_app.git
+cd articles_app
