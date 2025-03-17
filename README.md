@@ -1,16 +1,42 @@
 # article_app
 
-A new Flutter project.
+# 📝 Articles App
 
-## Getting Started
+**Articles App** is a Flutter-based application that allows users to **post, edit, refresh, and read articles**. The app is built with **GetX** for efficient state management and navigation.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📌 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✔️ Post new articles  
+✔️ Edit existing articles  
+✔️ Read articles in a structured format  
+✔️ Refresh the articles list  
+✔️ Smooth navigation using GetX  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Technologies Used
+
+- **Flutter** - Frontend framework  
+- **Dart** - Programming language  
+- **GetX** - State management & routing  
+
+---
+
+## 📷 Screenshots
+
+![image](https://github.com/user-attachments/assets/0eb5dfa3-b025-4769-950d-9744c4e49a1b)
+
+![image](https://github.com/user-attachments/assets/bbf49008-03f0-4a8f-ad1f-6e03a754d46e)
+
+![image](https://github.com/user-attachments/assets/20fd16a5-9468-4ff9-82b1-1307e5b49525)
+
+---
+
+## 📦 Installation
+
+### **Step 1: Clone the Repository**
+```sh
+git clone https://github.com/yourusername/articles-app.git
+cd articles-app
